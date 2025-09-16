@@ -1,5 +1,5 @@
 # Time Series Final Project — Global Land Temperatures
-
+[📄 View Full Report (PDF)](report.pdf)
 This project explores global climate data through time series analysis.  
 Using monthly land temperature records from 1900–2015 and CO₂ trends as an exogenous variable,  
 we apply classical models (SARIMA, Fourier regression), modern forecasting tools (Prophet),  
